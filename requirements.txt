@@ -1,0 +1,25 @@
+# python==3.11
+pandas
+numpy
+matplotlib
+seaborn
+termcolor
+skimpy
+ipywidgets
+scikit-learn
+xgboost
+notebook
+ipykernel
+statsmodels
+geopandas
+folium
+shapely
+plotly
+openpyxl
+xlrd
+pip
+spacy
+xmltodict
+wordcloud
+stats
+dash
